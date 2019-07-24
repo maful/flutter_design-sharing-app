@@ -2,6 +2,10 @@
 
 Sample implementation design to Flutter App
 
+## Demo
+
+<img height="580px" width="350px" src="https://raw.githubusercontent.com/maful/flutter_design-sharing-app/master/screens/iphoneX.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
