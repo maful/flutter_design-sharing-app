@@ -1,6 +1,7 @@
 # Flutter Design Challenge - Sharing App
 
 Sample implementation design to Flutter App
+
 Inspired from [Some thoughts on the design of sharing app](https://dribbble.com/shots/6658438-Some-thoughts-on-the-design-of-sharing-app) by Cao Hao
 
 ## Demo
